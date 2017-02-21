@@ -1,3 +1,4 @@
+#include "ElectrolytePCH.h"
 #include "tinyutf8.h"
 #include <limits>
 #include <stdio.h>
