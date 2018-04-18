@@ -3,8 +3,9 @@
 Lightweight C++11 library for embedding Unicode 
 
 Originally found at: https://sourceforge.net/projects/tiny-utf8/ 
+Now maintained at: https://github.com/DuffsDevice/tinyutf8
 
-Original Author: ijake1111
+Original Author: DuffsDevice (Jakob Riedle)
 
 
 This repository exists to capture the latest and most stable builds for our use.
